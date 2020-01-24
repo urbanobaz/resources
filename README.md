@@ -1,4 +1,4 @@
-- internetingishard.com
-  - HTML, CSS, JavaScript, Response Web Design, Flexbox
+- [Interneting is Hard](internetingishard.com)
+  - HTML, CSS, JavaScript, Response Design, Flexbox, Advanced Positioning, Forms
 
 - 
